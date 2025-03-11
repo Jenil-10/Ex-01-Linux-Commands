@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## NAME :ABISHEK S
-## REG NO :212224240003
+## NAME :JENIL PIO J
+## REG NO :212223220040
 
 
 
